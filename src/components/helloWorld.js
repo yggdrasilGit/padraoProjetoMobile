@@ -1,7 +1,6 @@
 import { StatusBar } from 'expo-status-bar';
 import { Text, View } from 'react-native';
-import { stylesHelloWorld } from '../../style/stylesHelloWorld';
-
+import { stylesHelloWorld } from './stylesHelloWorld';
 
 export default function HelloWord() {
   return (
